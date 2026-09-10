@@ -1,0 +1,9 @@
+item,value
+total_rows,941
+city_count,42
+year_min,2000
+year_max,2022
+population_non_null,697
+population_zero_count,5
+population_gap_records,10
+candidate_change_records,16

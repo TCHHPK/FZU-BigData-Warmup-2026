@@ -1,0 +1,4 @@
+model,prediction_2023,true_2023,absolute_error,squared_error
+Last Population,388.0,384,4.0,16.0
+Recent Trend,389.0,384,5.0,25.0
+Multi-year Linear Trend,382.7000000000007,384,1.2999999999992724,1.6899999999981083
